@@ -1,0 +1,99 @@
+.main {
+     text-align: center;
+    justify-content: center; 
+    display: flex; 
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #ffffff;
+  }
+  .smain {
+  
+    justify-content:center; 
+    height: 600px;
+    width: 35%;
+    box-shadow: 5px 6px 6px 3px rgb(173, 170, 170);
+    padding-top: 30px;
+    border-radius: 60px;                   
+    background-color: rgb(255, 255, 255);
+      display: block;
+    margin-left:60%;
+    opacity: 0.5;
+  }
+  .smain:hover{
+    opacity:1.0;
+  }
+  .sub-main1 {
+    display: block;
+    justify-content:center;
+    height: 600px;
+    width: 35%;
+    box-shadow: 6px 5px 5px 6px rgb(140, 139, 156);
+    padding-top: 30px;
+    border-radius: 60px; 
+    background-color: rgb(255, 255, 255);
+    margin-left:60%;
+    opacity: 0.5; 
+  }
+  .sub-main1:hover{
+    opacity:1.0;
+  }
+
+  .imgs {
+      padding-top: 20px;
+      justify-content: center;
+      display: flex;
+    }
+  .container-image {
+    background-color: rgb(255, 255, 255); 
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+  }
+  .profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+  }    
+  .emai{
+    
+    height: 40px;
+    width: 40px;
+    
+    position: absolute;
+    padding: 15px 0px 0px 10px;  
+}
+  .input {
+      width: 300px;
+      height: 50px;
+      border-radius: 60px;      
+      box-shadow: inset 0px 0px 25px 0px #c0c1c2;
+      border: none;                             
+      outline: none;
+      background-color: #fdfdfd;
+  }
+
+  .name{
+      padding-left: 70px;
+      font-size: 20px;
+  }
+  .second-input{
+      padding-top: 20px;
+  }
+
+  .button{
+      width: 300px;
+      height: 50px;
+      border-radius: 60px;
+      background-color: #e8e2eb;
+      color: white;
+      font-size: 25px;
+      border: none;
+  }
+  .login-button{
+      padding-top: 25px;
+  }
+  
+ 
